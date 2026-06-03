@@ -10,7 +10,7 @@ I am a passionate **Computer Science Undergraduate** specializing in **Artificia
 * A full-stack financial trading dashboard replica focused on modern UI/UX and real-time data flow using the MERN Stack.
 * **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB.
 
-### 🔐 [PromptVault](https://github.com/StrangerRider/prompt-vault)
+### 🔐 [MindShare](https://github.com/StrangerRider/MindShare)
 * A secure, dynamic platform for AI prompt engineering guides. Features restricted full-page content access via customized reader authentication and a hidden, passcode-secured admin writing portal.
 * **Tech Stack:** React (Vite), Node.js, Express, Mongoose, MongoDB.
 
