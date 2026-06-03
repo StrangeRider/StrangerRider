@@ -6,7 +6,7 @@ I am a passionate **Computer Science Undergraduate** specializing in **Artificia
 
 ## 🚀 Featured Projects
 
-### 📈 [Zerodha Clone](https://zerodha-dashboard-j9me.vercel.app/)
+### 📈 [ApexTrade](https://zerodha-dashboard-j9me.vercel.app/)
 * A full-stack financial trading dashboard replica focused on modern UI/UX and real-time data flow using the MERN Stack.
 * **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB.
 
