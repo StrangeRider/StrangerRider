@@ -36,6 +36,6 @@ I am a passionate **Computer Science Undergraduate** specializing in **Artificia
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> <br>
-  🛠️ Happy Coding!
+  <i>"Every Bug Hides a Better Idea"</i> <br>
+  Enjoy Coding!
 </p>
