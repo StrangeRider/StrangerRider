@@ -22,7 +22,7 @@ I am a passionate **Computer Science Undergraduate** specializing in **Artificia
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Vite, Tailwind CSS |
 | **Backend & DB** | Node.js, Express.js, MongoDB, MySQL |
-| **Languages & Core** | Java, C, Python(Basics) |
+| **Languages** | Java, C, Python(Basics) |
 | **Core Concepts** | Object-Oriented Programming(OOP), Operating System(OS), Data Structures & Algorithms(DSA), Database Management System(DBMS), Computer Networks(CN) |
 | **Tools** | Git, GitHub, VS Code, Postman |
 
